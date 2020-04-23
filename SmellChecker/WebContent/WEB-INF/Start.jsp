@@ -8,7 +8,7 @@
 </head>
 <body>
 
-嗅覚の異常をチェックできるツールです。<BR>
+こんにちは。嗅覚の異常をチェックできるツールです。<BR>
 <BR>
 
 <form name="f1" action="Control" method="post">
