@@ -8,6 +8,9 @@
 </head>
 <body>
 
+嗅覚の異常をチェックできるツールです。<BR>
+<BR>
+
 <form name="f1" action="Control" method="post">
 
 手元にある、香りの番号を入力してください。<BR>
